@@ -1,0 +1,17 @@
+[2024-06-27 01:31:56] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 01:32:39] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:10:12] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:10:42] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:11:06] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:12:08] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:18:53] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:19:02] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:24:23] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:25:59] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:28:05] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:28:54] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:29:58] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:34:28] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:35:03] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:36:58] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}
+[2024-06-27 11:38:13] ERROR: {"error":"RedisException","message":"ERR: AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?"}

@@ -1,0 +1,20 @@
+name: adf_desafio_estados
+description: Sample Vania backend web application framework
+version: 1.0.0
+
+environment:
+  sdk: ^3.2.3
+
+# Add regular dependencies here.
+dependencies:
+  dio: ^5.4.3+1
+  shorebird_redis_client: ^0.0.4
+  vania: ^0.3.1
+
+
+dev_dependencies:
+  lints: ^2.1.0
+  test: ^1.24.0
+
+dependency_overrides:
+  pointycastle: 3.7.3
